@@ -4,5 +4,8 @@ standing strong
 on this their chjsen battle file
 add new line for local commit
 change to this file
+<<<<<<< HEAD
 
 for git amend
+=======
+>>>>>>> bbbdf59a173a77cd4ee7ced755ead3eca515bcae
